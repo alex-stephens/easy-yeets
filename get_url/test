@@ -1,0 +1,1 @@
+python app.py -u "sghiotnvj" -p "321cba" --location 1027421101 --include-location --maximum 5 --media-types "image" --destination "images/1027421101" --verbose 1

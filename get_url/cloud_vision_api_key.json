@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "free-rooms-app-203814",
+  "private_key_id": "e2d5a434789236a8fb41caa7b7491c48f7c983e9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDa9ATPIQngqyS3\nZ5ZL0QSfejXKYr2g3VynvT7inJaBhvSPKiBuW4vMkP5Try/ee3b7WVGZaEuo69XI\nxmqIObGNVNeNzbkBdRt897fdFdwJkeagsEflTiQigq+KnTJ5baz+ns3LkqjKXePu\n2ZcIzUU5lhXIWZbANVfUPQboKiiMIuzLbqVyzXwU1kEKdiBl6KOWGx14Zl4UJxFO\n5ULguCJQNy7pjTrDKHYVFBmNMco8/yePlEbVwWie6st1lFeMzfd1jGLyHR60qaEc\nd0kachtZK24VqI1Asy7FPPqz1I1UqJ3nveHqjai42MlLtk7EmTWof/bq/nmZYRhK\nkJ7Lhih7AgMBAAECggEAAhXth8yutllwVO4/14nSHUk6rZw+2BF+aIJqe29aFatx\n7ifa9nPudOzI4E1OaAmitVhWogmFBMLayYg1bwX8VX17PNTzkAi2tXwztTh7sl/c\nzmBE1Ub1VQxhTnhwFyXpeOT/I9o79JkWsel7sxrR6LaTVm6fJinmlaqy7jMcm27j\nNxmDNPYac9R9itHWXmsztDxaMh6R9I1QNXbKrM5kwWOVNaxe56MKJkK25/ZfFP1v\nJRAPj0wMR5ii3+nOyuCbm4ZBVwsOqjJybe4K/lfhNdhlZHTAHlRWu7S5nU3GvNVn\nS0OnB8IKtd3vS7/f8l/EAJ1a4//5lU+FCxc11CLMDQKBgQD74fOeOARjAzVXhKuh\n0TTFDqI/lxIW01IcAKJsHbjhbnXnCAczn56auWIY4qZdZ1FBt87neB8Cl0kb/o/A\nyLAQnNttvOuZbFfWYRqFmyD3SLF4QpX0CyiRN1AIzNlMgm+i1RimMWDkSXVqYdOP\nj6fkdWykP6wmqqYgeUf3tvppfwKBgQDeiESdAijFiEEk2y5oJkudVIgRSab90p3s\nlJaqLtdWS3vS7XlOa5Ml+39nblrhq+QEk67Kf7erC5t6Vwxo693Sj9hy6OS6jl+d\nPczKcmfyQxOvoDXhPEeWlmrjclw3+3ff8G0dWKQoR6pWf/ia+QHuJbz6OJoB2UAY\nzlUCv9BnBQKBgF8+EA1apyX9V5UxQGjen3KH1wfuitOAsoKOJtx03Ky5RPHIElkN\n2T4uLQ613SxiXdJYu27A+BDVvbpNJnRCLnkJpts23WtVEV2puAqfHvcCUMDlhKgT\n9BH89VFujBgnFilfJIPrFfUcZb6FIScereBwGlV9Eg5I5qpO0cy0LrnnAoGAPjgz\nlwLHi5NxQ3DVJOGwOqkr8kl5m3aMGV3iUmsOYl5wnKUxSa/iULhlAvJkDr0U4AK6\n2HulSvnP2wEDw0JPn1QA3QApE9BDA6AH5oLedWoz0uMkrXlBOuWLtVSAXFa/Sanb\nmFz0aR7AjbbyN8Jvu7ppgDzbMrEfrs/iDQa8qlECgYEAwvuze14olJImjUD3V9RW\nDHx1VXyCX6YN7GMOZt0n+19D2iLtzN8/QZaiQ/iDaMsRoVcR2hMU+WBoyljN/+t+\n8z9Vu5dHBstnFCD6ZnN8R2yN0jA1C8bSSg+99NUvlaq97C06ZE4kQ30+MmM/oqX6\nLWVYO4FQdpwxf3nOWX1kvzA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "justin@free-rooms-app-203814.iam.gserviceaccount.com",
+  "client_id": "113373522561839695026",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/justin%40free-rooms-app-203814.iam.gserviceaccount.com"
+}
